@@ -5,4 +5,4 @@ npm install gulp
 To initialized the App
 $ cd ~/oca/startnow-ops100-gulp-and-npm/
 $ git init
-$ npm install 
+$ npm install # startnow-ops100-gulp-and-npm
